@@ -1,0 +1,19 @@
+SCHOOL INFORMATION
+name,address,phone,email,num_stud,num_teachers
+Beauxbatons,France,797039,beauxbatons@magic.edu.com,10,2
+TEACHERS
+name,familyname,age,gender,nationality,school,subjects
+Olympe,Maxime,35,F,French,Beauxbatons,['Charms']
+Genevieve,Duval,45,F,French,Beauxbatons,['Potions']
+LIST OF STUDENTS
+name,familyname,age,gender,nationality,school,subjects
+Fleur,Delacour,17,F,French,Beauxbatons,"['Ancient Runes', 'History of Magic', 'Potions']"
+Gabrielle,Delacour,12,F,French,Beauxbatons,"['Ancient Runes', 'Astronomy', 'History of Magic']"
+Luc,Millefeuille,15,M,French,Beauxbatons,"['Ancient Runes', 'Herbology', 'Defense Against the Dark Arts']"
+Aurelie,Dumont,13,F,French,Beauxbatons,"['Transfiguration', 'Potions', 'Muggle Studies']"
+Davet,Dumont,16,M,French,Beauxbatons,"['Transfiguration', 'Care of Magical Creatures', 'Potions']"
+Celine,Castillon,14,F,French,Beauxbatons,"['Herbology', 'Astronomy', 'Transfiguration']"
+Bastien,Janvier,14,M,French,Beauxbatons,"['Divination', 'Charms', 'Divination']"
+Mathis,Gage,13,M,French,Beauxbatons,"['Charms', 'Astronomy', 'History of Magic']"
+Isabelle,Lefevre,17,F,French,Beauxbatons,"['Divination', 'History of Magic', 'Transfiguration']"
+Antoine,Dubois,16,M,French,Beauxbatons,"['History of Magic', 'Care of Magical Creatures', 'Herbology']"

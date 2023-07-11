@@ -1,0 +1,19 @@
+SCHOOL INFORMATION
+name,address,phone,email,num_stud,num_teachers
+Hogwarts,Great Britain,797004,hogwarts@magic.edu.com,10,2
+TEACHERS
+name,familyname,age,gender,nationality,school,subjects
+Severus,Snape,36,M,British,Hogwarts,['Ancient Runes']
+Minerva,McGonagall,61,F,Scottish,Hogwarts,['Astronomy']
+LIST OF STUDENTS
+name,familyname,age,gender,nationality,school,subjects
+Harry,Potter,14,M,British,Hogwarts,"['History of Magic', 'Muggle Studies', 'Care of Magical Creatures']"
+Hermione,Granger,15,F,British,Hogwarts,"['Astronomy', 'Potions', 'Care of Magical Creatures']"
+Ron,Weasley,14,M,Irish,Hogwarts,"['Transfiguration', 'Care of Magical Creatures', 'Charms']"
+Draco,Malfoy,14,M,British,Hogwarts,"['Potions', 'Herbology', 'Muggle Studies']"
+Luna,Lovegood,14,F,British,Hogwarts,"['History of Magic', 'Herbology', 'History of Magic']"
+Neville,Longbottom,14,M,British,Hogwarts,"['Divination', 'Defense Against the Dark Arts', 'Ancient Runes']"
+Ginny,Weasley,14,F,Irish,Hogwarts,"['Muggle Studies', 'Muggle Studies', 'Defense Against the Dark Arts']"
+Fred,Weasley,16,M,Irish,Hogwarts,"['Ancient Runes', 'Ancient Runes', 'History of Magic']"
+George,Weasley,16,M,Irish,Hogwarts,"['Care of Magical Creatures', 'Herbology', 'Divination']"
+Penelope,Clearwater,17,M,Irish,Hogwarts,"['Herbology', 'Ancient Runes', 'Potions']"

@@ -1,0 +1,19 @@
+SCHOOL INFORMATION
+name,address,phone,email,num_stud,num_teachers
+Koldovstoretz,Russia,797001,koldovstoretz@magic.edu.com,10,2
+TEACHERS
+name,familyname,age,gender,nationality,school,subjects
+Lubomir,Velikiy,72,M,Russian,Koldovstoretz,['Care of Magical Creatures']
+Alisa,Bulgakova,37,F,Russian,Koldovstoretz,['Herbology']
+LIST OF STUDENTS
+name,familyname,age,gender,nationality,school,subjects
+Yuri,Blishenov,16,M,Russian,Koldovstoretz,"['History of Magic', 'History of Magic', 'Herbology']"
+Petr,Porskoff,14,M,Russian,Koldovstoretz,"['Muggle Studies', 'History of Magic', 'Defense Against the Dark Arts']"
+Anastasia,Petrova,14,F,Russian,Koldovstoretz,"['Muggle Studies', 'Charms', 'History of Magic']"
+Dmitri,Ivanov,16,M,Russian,Koldovstoretz,"['Transfiguration', 'Potions', 'Herbology']"
+Elena,Sokolova,15,F,Russian,Koldovstoretz,"['History of Magic', 'Defense Against the Dark Arts', 'Care of Magical Creatures']"
+Ivan,Zhukov,18,M,Russian,Koldovstoretz,"['History of Magic', 'Transfiguration', 'Muggle Studies']"
+Katerina,Mikhailova,11,F,Russian,Koldovstoretz,"['Charms', 'Ancient Runes', 'Care of Magical Creatures']"
+Nikolai,Rogulenko,13,M,Russian,Koldovstoretz,"['Care of Magical Creatures', 'Divination', 'History of Magic']"
+Olga,Popova,12,F,Russian,Koldovstoretz,"['Potions', 'Astronomy', 'Defense Against the Dark Arts']"
+Sergei,Kuznetsov,17,M,Russian,Koldovstoretz,"['Potions', 'Care of Magical Creatures', 'Ancient Runes']"

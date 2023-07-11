@@ -1,0 +1,19 @@
+SCHOOL INFORMATION
+name,address,phone,email,num_stud,num_teachers
+Mahoutokoro,Japan,797040,mahoutokoro@magic.edu.com,10,2
+TEACHERS
+name,familyname,age,gender,nationality,school,subjects
+Kazuhiro,Shiratori,68,M,Japanese,Mahoutokoro,['Ancient Runes']
+Shintaro,Shingo,46,M,Japanese,Mahoutokoro,['Astronomy']
+LIST OF STUDENTS
+name,familyname,age,gender,nationality,school,subjects
+Yoshi,Wakahisa,17,M,Japanese,Mahoutokoro,"['Defense Against the Dark Arts', 'Ancient Runes', 'Transfiguration']"
+Shizuka,Watanabe,16,F,Japanese,Mahoutokoro,"['Charms', 'Care of Magical Creatures', 'Ancient Runes']"
+Tamotsu,Iwamoto,13,M,Japanese,Mahoutokoro,"['Divination', 'Muggle Studies', 'Transfiguration']"
+Keiko,Takahashi,12,F,Japanese,Mahoutokoro,"['Divination', 'Charms', 'History of Magic']"
+Minaka,Hirakata,15,F,Japanese,Mahoutokoro,"['Defense Against the Dark Arts', 'Charms', 'Potions']"
+Noriyuki,Sato,18,M,Japanese,Mahoutokoro,"['Astronomy', 'Transfiguration', 'Potions']"
+Yoshihiro,Suzuki,12,M,Japanese,Mahoutokoro,"['Astronomy', 'Ancient Runes', 'Divination']"
+Ryuichi,Yamaguchi,11,M,Japanese,Mahoutokoro,"['Care of Magical Creatures', 'Divination', 'Ancient Runes']"
+Noriko,Sato,14,F,Japanese,Mahoutokoro,"['Ancient Runes', 'Muggle Studies', 'Herbology']"
+Masaki,Hongo,17,M,Japanese,Mahoutokoro,"['Astronomy', 'Charms', 'Care of Magical Creatures']"

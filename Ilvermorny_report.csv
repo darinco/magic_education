@@ -1,0 +1,19 @@
+SCHOOL INFORMATION
+name,address,phone,email,num_stud,num_teachers
+Ilvermorny,USA,797035,ilvermorny@magic.edu.com,10,2
+TEACHERS
+name,familyname,age,gender,nationality,school,subjects
+Rionach,Steward,43,F,American,Ilvermorny,['Divination']
+Eulalie,Hicks,32,F,American,Ilvermorny,['Charms']
+LIST OF STUDENTS
+name,familyname,age,gender,nationality,school,subjects
+Angelus,Peel,15,M,Canadian,Ilvermorny,"['Transfiguration', 'Herbology', 'Ancient Runes']"
+Thornton,Harkaway,16,M,American,Ilvermorny,"['Astronomy', 'Muggle Studies', 'Ancient Runes']"
+Bella,Smith,11,F,American,Ilvermorny,"['Transfiguration', 'Divination', 'Care of Magical Creatures']"
+Charlie,Jones,12,M,British,Ilvermorny,"['Ancient Runes', 'Potions', 'Charms']"
+Daisy,Williams,13,F,Canadian,Ilvermorny,"['Care of Magical Creatures', 'Muggle Studies', 'Potions']"
+Ethan,Brown,14,M,American,Ilvermorny,"['Transfiguration', 'Ancient Runes', 'Potions']"
+Fiona,Davis,15,F,British,Ilvermorny,"['History of Magic', 'Astronomy', 'Astronomy']"
+Gemma,Garcia,16,F,Canadian,Ilvermorny,"['Herbology', 'History of Magic', 'Defense Against the Dark Arts']"
+Henry,Rodriguez,17,M,American,Ilvermorny,"['Potions', 'Potions', 'Transfiguration']"
+Isabella,Martinez,18,F,British,Ilvermorny,"['Potions', 'Muggle Studies', 'Charms']"
